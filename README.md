@@ -57,7 +57,7 @@
 - `pmap` : Menampilkan peta memori pid yang diberikan
 - `sleep` : Menunda atau menjeda eksekusi perintah untuk jumlah waktu tertentu
 - `ss` : Menampilkan informasi koneksi jaringan
-- `locate` : Berguna untuk menemukan perintah untuk menemukan file apa pun di sistem.
+- `locate` : Berguna untuk menemukan perintah untuk menemukan file apa pun di sistem
 
 ## Referensi
 https://www.sridianti.com/linux/100-perintah-linux-penting-untuk-setiap-pengguna.html
