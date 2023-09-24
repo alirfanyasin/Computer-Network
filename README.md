@@ -10,3 +10,5 @@
 - `lscpu` : Menampilkan informasi CPU
 - `uptime` : Menampilkan waktu sistem aktif
 - `free` : Menampilkan informasi memori bebas
+
+- `last` : Menampilkan log masuk terakhir
