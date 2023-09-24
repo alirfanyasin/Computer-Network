@@ -13,3 +13,18 @@
 <br/>
 
 - `last` : Menampilkan log masuk terakhir
+- `uname` : Menampilkan informasi sistem operasi
+- `date` : Menampilkan tanggal dan waktu
+- `clear` : Membersihkan jendela terminal
+- `df` : Menampilkan informasi ruang disk saat ini
+- `du` : Menampilkan ukuran direktori dan file
+- `route` : Menampilkan dan memodifikasi rute jaringan
+- `ps`: Menampilkan proses saat ini
+- `time` : Menampilkan waktu eksekusi perintah
+- `calendar` : Menampilkan kalender
+ <br/>
+
+- `alias` : Mengubah nama perintah
+- `arp` : Menampilkan tabel ARP
+- `kmod list` : Menampilkan modul kernel yang sedang di muat
+- `pstree` : Menampilkan semua proses yang sedang berjalan dalam format pohon
