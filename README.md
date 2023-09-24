@@ -28,3 +28,40 @@
 - `arp` : Menampilkan tabel ARP
 - `kmod list` : Menampilkan modul kernel yang sedang di muat
 - `pstree` : Menampilkan semua proses yang sedang berjalan dalam format pohon
+- `expr` : Melakukan operasi perhitungan
+- `lynx` : Melihat file html atau browse ke net dengan text mode
+- `ufw` : Mengelola firewall UFW.
+- `id` : Menampilkan user id (uid) atau group id (gid
+- `w` : Melihat siapa saja yang sedang Login dengan informasi yang sangat lengkap
+- `whatis` :  Menampilkan fungsi dari suatu perintah saja yang dimaksud
+ <br/>
+
+- `hostname` : Menampilkan atau mengubah nama host
+- `man` : Menampilkan manual perintah
+- `lspci` : Menampilkan informasi perangkat PCI
+- `nproc` : Menampilkan jumlah unit pemrosesan yang dialokasikan untuk proses yang sedang berjalan
+- `lsblk` : Menampilkan informasi perangkat blok pada jendela Terminal
+- `nano` : Digunakan sebagai text editor
+- `dpkg` : Berguna untuk melakukan instalasi paket dengan ekstensi “.deb”
+- `reboot` : Memulai ulang sistem
+- `shutdown` : Mematikan sistem
+- `wc` : Menampilkan jumlah kata dan baris file
+<br/>
+
+- `uniq` : Uniq adalah perintah Terminal Linux standar ketika dilemparkan dengan file, memfilter baris yang berulang dalam file.
+- `exit` : Digunakan untuk keluar dari terminal
+- `mpstat` : Menampilkan semua informasi tentang useran CPU dan statistik kinerja
+- `lsof` :  Melihat semua file terbuka yang terkait dengan aplikasi
+- `dir` :  Melihat daftar semua direktori dan folder yang ada di direktori kerja saat ini.
+- `curl` : Mengunduh berkas melalui jaringan
+- `pmap` : Menampilkan peta memori pid yang diberikan
+- `sleep` : Menunda atau menjeda eksekusi perintah untuk jumlah waktu tertentu
+- `ss` : Menampilkan informasi koneksi jaringan
+- `locate` : Berguna untuk menemukan perintah untuk menemukan file apa pun di sistem.
+
+## Referensi
+https://www.sridianti.com/linux/100-perintah-linux-penting-untuk-setiap-pengguna.html
+https://www.kupaskomputer.com/100-perintah-dasar-linux/
+https://www.sarjanabersama.com/2018/10/100-perintah-dasar-linux-debian.html?m=1
+
+
